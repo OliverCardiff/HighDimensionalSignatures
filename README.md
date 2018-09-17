@@ -4,7 +4,7 @@ Intersects long-lmer protein sequence space with flexibility masks to generate b
 This is a high dimensional space exploration program. Consequently it is very RAM hungry. For example, make ~500GB of RAM available for an N=3 exploration of a 30MB proteome.
 
 <Link to Publication to be added once submitted>
-
+  
 
 Usage Message:
 ```
@@ -41,11 +41,19 @@ Output Files:
 <prefix>_short_main_null.txt    2D Local Null Signaute
 ```
 
-##Example Signauture
+## Visualisation
+
+<Explain R Code here>
 
 
+## Example Signatures
 
-##Interpreting Signatures
+![L.rubellus](Images/Lumbricus_rubellus_prot.png)
 
-![Interpreting Signatures](infographic.png)
+![L.rubellus_Expanded](Images/L.rubellus_291_prot.png)
+
+
+## Interpreting Signatures
+
+![Interpreting Signatures](Images/infographic.png)
 
