@@ -3,7 +3,7 @@ The software intersects long-lmer protein sequence space with flexibility masks 
 
 See [my thesis chapter](https://github.com/OliverCardiff/HighDimensionalSignatures/blob/master/OliverThesis-%20Data%20chapter%202.pdf) for development rationale, mathematical concepts/treatment, test set performance, and theoretical discussion.
 
-This is a high dimensional space exploration program. Consequently it is very RAM hungry. For example, make ~500GB of RAM available for an N=3 exploration of a 30MB proteome.
+This is a high dimensional space exploration program, it has been designed to work on HPC systems created with genome assemblies in mind. Consequently it is very RAM hungry. For example, make ~500GB of RAM available for an N=3 exploration of a 30MB proteome.
 
 <Link to Publication to be added once submitted>
   
