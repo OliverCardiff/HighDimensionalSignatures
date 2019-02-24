@@ -1,5 +1,7 @@
-# High Dimensional Signatures Generation for Proteomes
-Intersects long-lmer protein sequence space with flexibility masks to generate biologically informative high dimensional signatures
+# High Dimensional Signature Generation for Proteomes
+The software intersects long-lmer protein sequence space with flexibility masks to generate biologically informative high dimensional signatures.
+
+See [my thesis chapter](https://github.com/OliverCardiff/HighDimensionalSignatures/blob/master/OliverThesis-%20Data%20chapter%202.pdf) for development rationale, mathematical concepts/treatment, test set performance, and theoretical discussion.
 
 This is a high dimensional space exploration program. Consequently it is very RAM hungry. For example, make ~500GB of RAM available for an N=3 exploration of a 30MB proteome.
 
